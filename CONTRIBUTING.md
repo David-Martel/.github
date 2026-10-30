@@ -1,7 +1,8 @@
 # Contributing
 
-These rules apply to every repository in this account that does not carry its own
-`CONTRIBUTING.md`. A repository may add detail; it does not relax them.
+These rules apply to every repository in this account. GitHub shows this file only where a
+repository has no `CONTRIBUTING.md` of its own; such a file may add detail but must not relax
+these rules.
 
 ## Tests
 
